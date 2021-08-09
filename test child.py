@@ -1,2 +1,1 @@
-hvuybb
-khkhb
+print(a)
